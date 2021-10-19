@@ -81,7 +81,7 @@ export default function Footer() {
           <p>
             &copy; 2021{" "}
             <a href="https://dashsantosh.me" target="_blank" rel="noreferrer">
-              Dash Santosh
+              Robert Kelly
             </a>
           </p>
         </span>
